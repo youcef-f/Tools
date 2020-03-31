@@ -9,15 +9,15 @@ private void index(){
 }
 ``` 
 
-Cucumber ('*.feature')
-abap ('*.abap')
-ada ('*.adb', '*.ads', '*.ada')
-ahk ('*.ahk', '*.ahkl')
-apacheconf ('.htaccess', 'apache.conf', 'apache2.conf')
-applescript ('*.applescript')
-as ('*.as')
-as3 ('*.as')
-asy ('*.asy')
+- Cucumber ('*.feature')
+- abap ('*.abap')
+- ada ('*.adb', '*.ads', '*.ada')
+- ahk ('*.ahk', '*.ahkl')
+- apacheconf ('.htaccess', 'apache.conf', 'apache2.conf')
+- applescript ('*.applescript')
+- as ('*.as')
+- as3 ('*.as')
+- asy ('*.asy')
 bash ('*.sh', '*.ksh', '*.bash', '*.ebuild', '*.eclass')
 bat ('*.bat', '*.cmd')
 befunge ('*.befunge')
@@ -135,18 +135,4 @@ xquery ('*.xqy', '*.xquery')
 xslt ('*.xsl', '*.xslt')
 yaml ('*.yaml', '*.yml')
 Select a topic:
-Choose from one of the topics below to browse other articles
 
-Getting Started
-User Management
-Projects
-Tickets
-Repositories
-Discussions
-Notification Centre
-Notebook
-File Uploads
-Time Tracking
-Tips & Tricks
-Agile Methodology
-Notification Services
